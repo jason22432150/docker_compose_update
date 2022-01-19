@@ -1,6 +1,19 @@
 # docker_compose_update
 docker compose update
 
+
+If you use 
+```sh
+docker-compose up 
+```
+get 
+```sh
+Version in "./docker-compose.yml" is unsupported. You might be seeing this error because you're using the wrong Compose file version.
+```
+Then you need to update docker compose 
+
+
+
 Here is docker compose official Github website
 https://github.com/docker/compose
 
