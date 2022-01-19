@@ -41,4 +41,7 @@ sudo curl -L https://github.com/docker/compose/releases/download/v2.2.3/docker-c
 # step4:
 ```sh
 sudo chmod +x /usr/bin/docker-compose
+docker-compose -v
 ```
+
+
