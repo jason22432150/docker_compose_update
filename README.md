@@ -27,7 +27,7 @@ we get
 
 # step2:
 ```sh
-$sudo rm /usr/bin/docker-compose
+sudo rm /usr/bin/docker-compose
 ```
 
 # step3:
