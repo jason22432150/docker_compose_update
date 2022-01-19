@@ -35,7 +35,7 @@ $sudo rm /usr/bin/docker-compose
 https://github.com/docker/compose
 the last version is v2.2.3
 ```sh
-curl -L https://github.com/docker/compose/releases/download/v2.2.3/docker-compose-`uname -s`-`uname -m` -o /usr/bin/docker-compose
+sudo curl -L https://github.com/docker/compose/releases/download/v2.2.3/docker-compose-`uname -s`-`uname -m` -o /usr/bin/docker-compose
 ```
 
 # step4:
